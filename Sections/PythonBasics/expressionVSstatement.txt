@@ -1,0 +1,2 @@
+expression = peice of code that produces value
+statement = entire line of code that performs an action
