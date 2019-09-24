@@ -1,0 +1,12 @@
+svalue = 5
+svalue = 5 + 2
+
+#or
+
+svalue = 5
+svalue = svalue + 2
+
+#or even better
+
+svalue = 5
+svalue += 2
