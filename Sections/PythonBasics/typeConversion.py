@@ -1,0 +1,1 @@
+print(type(int(str(100))))
