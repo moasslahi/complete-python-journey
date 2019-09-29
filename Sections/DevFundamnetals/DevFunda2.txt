@@ -1,0 +1,3 @@
+- Comment your code using # 
+- To make the code more understanable 
+- concise and simple
