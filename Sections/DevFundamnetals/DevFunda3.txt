@@ -1,0 +1,9 @@
+Understanding data structure 
+-----------------------------
+    Q) when should you use a list and a dictionary?
+    A) Depends on the task
+        - dictionary isnt ordered 
+        - list is ordered
+        - dictionary holds more information
+        - list has single value (index and value)
+        - 
