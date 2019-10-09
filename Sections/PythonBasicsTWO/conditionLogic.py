@@ -1,5 +1,6 @@
-# if and else 
+
 #conditional
+
 is_old = True
 is_licenced = True
 
@@ -20,3 +21,15 @@ else:
 
 if is_licenced and is_old:
     print('yes Go Go !')
+
+
+# truthy value any string or num
+# falsey 0 or an empty string
+
+password = '123'
+username = 'Mo'
+
+if password and username:
+    print('Hello')
+else: 
+    print('Wrong')
