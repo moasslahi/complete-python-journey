@@ -41,3 +41,21 @@ while True:
     response = input('Say Something: ')
     if (response == 'bye'):
         break
+
+#----------------------------------------
+#break, continue and pass
+
+# break works in for loop
+for item in mylist:
+    print(item)
+    break #breaks out of the loop
+
+#continue 
+for item in mylist:
+    print(item)
+    continue # back to the for loop
+
+#pass passes to the next line 
+#placeholder
+
+
