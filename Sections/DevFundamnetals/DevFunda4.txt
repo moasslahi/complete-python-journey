@@ -1,0 +1,7 @@
+what is a good code ?
+
+- Clean
+- Readability
+- Commenting 
+- Predictability
+- DRY = dont repeat yourself
