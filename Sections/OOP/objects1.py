@@ -3,19 +3,17 @@
 
 
 class PlayerCharacter:
-    # class Object attribute , its static, actual attribute on the class
     membership = True
 
-    def __init__(self, name, age):  # constructor method
-        if (self.membership):
-            self.name = name  # properties of objects , dynamic and unique to that object
+    def __init__(self, name='anonymous', age=0):
+        if (age > 18):
+            self.name = name
             self.age = age
 
     def shout(self):
         print(f'my name is {self.name}')
 
 
-player1 = PlayerCharacter('Mo', 18)
-player2 = PlayerCharacter('Ahmed', 16)
+player1 = PlayerCharacter('Mo', 19)
 
-print(player1.shout())
+print(player1.shout)
